@@ -53,7 +53,7 @@ for i in range(n):
 ## Output:
 ![gaussian elimination]()
 ![Sex66](https://github.com/Poovarasu8/Gaussian/assets/155505954/8f8862da-c449-4382-a656-9ef62a37fb87)
-![ex666](https://github.com/Poovarasu8/Gaussian/assets/155505954/340e2774-2eb8-4b8d-81bf-f2e995165dac)
+![bbb](https://github.com/Poovarasu8/Gaussian/assets/155505954/d311ac82-55e1-4c09-822e-90708286134b)
 
 
 
